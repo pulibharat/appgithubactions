@@ -1,1 +1,1 @@
-## pythonn auto test with github actions
+## python auto test with github actions
